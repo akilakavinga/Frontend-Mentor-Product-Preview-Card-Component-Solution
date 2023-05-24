@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-svelte-and-sass-sAgff6IHKb)
+- Live Site URL: [Live URL](https://cheery-nasturtium-229d1b.netlify.app/)
 
 ### Built with
 
